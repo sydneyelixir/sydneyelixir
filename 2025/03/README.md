@@ -1,8 +1,8 @@
 # Elixir Sydney Tuesday, 18 March 2025
 
 - 6:00pm AEDT @ Online
+- [RSVP here][]
 - [Meetup page][]
-- [Tweets][]
 
 ## Presentations
 
@@ -15,5 +15,5 @@
 [#97]: https://github.com/elixirsydney/elixirsydney/issues/97
 [#96]: https://github.com/elixirsydney/elixirsydney/issues/96
 
-[LUMA RSVP]: https://lu.ma/9ynb9fc0
+[RSVP here]: https://lu.ma/9ynb9fc0
 [meetup page]: https://www.meetup.com/elixir-sydney/events/306272715/
